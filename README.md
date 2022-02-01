@@ -1,3 +1,3 @@
 # ufc2021.2-gc
 
-pequeno teste para o Jenkins
+Pasta para atividades das aulas de Gerência de Software
