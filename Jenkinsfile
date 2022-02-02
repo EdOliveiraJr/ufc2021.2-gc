@@ -8,5 +8,12 @@ pipeline {
       }
     }
 
+    stage('Teste') {
+      steps {
+        echo 'Iniciando teste...'
+        sleep(time: 15, unit: 'MINUTES')
+      }
+    }
+
   }
 }
